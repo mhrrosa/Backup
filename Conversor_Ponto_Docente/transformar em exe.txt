@@ -1,0 +1,1 @@
+pyinstaller --onefile -w Conversor_Ponto_Docente/conversor_xml
